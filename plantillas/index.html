@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Apuesta al clic</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 20px;
+    }
+
+    /* Estilo para el título */
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    /* Estilo para el botón rojo */
+    .red-button {
+      background-color: red;
+      color: white;
+      padding: 20px;
+      border-radius: 50%; /* Hace el botón redondo */
+      font-size: 1.5rem;
+      border: none;
+      cursor: pointer;
+      transition: transform 0.3s ease, background-color 0.3s ease; /* Transición suave */
+    }
+
+    /* Efecto hover para el botón rojo */
+    .red-button:hover {
+      background-color: darkred;
+      color: yellow;
+      transform: scale(1.5); /* Escala el botón */
+    }
+
+    /* Estilo para el contador */
+    .counter {
+      font-size: 1.5rem;
+      margin: 20px;
+    }
+
+    /* Estilo para el botón de apuesta */
+    .bet-button {
+      background-color: #4CAF50;
+      color: white;
+      padding: 15px 30px;
+      font-size: 1.5rem;
+      border: none;
+      cursor: pointer;
+    }
+
+    .bet-button:hover {
+      background-color: darkgreen;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Apuesta al clic</h1>
+
+  <!-- Contador de clics -->
+  <div class="counter">
+    Clics: <span id="counter">0</span>
+  </div>
+
+  <!-- Botón rojo grande y redondo -->
+  <button class="red-button">Clic</button>
+
+  <hr />
+
+  <!-- Botón para hacer la apuesta con emojis -->
+  <button class="bet-button">🎲 Apuesta 🎲</button>
+
+
+</body>
+</html>
