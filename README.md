@@ -52,7 +52,13 @@ Para no tener que inventarse todo, esta es la propuesta de funcionalidad.
 
 ## 🏆 Premio especial
 
-**📏 Al que consiga crear el código con menos líneas de JS/TS.**
+📏 Al que consiga crear el código con menos líneas de JS/TS.
+
+**¿Qué premio es?**
+
+Inténtalo y saldrás de dudas...
+
+
 
 ‎
 
@@ -68,6 +74,9 @@ Para no tener que inventarse todo, esta es la propuesta de funcionalidad.
 ## 🗓️ Fecha límite
 
 21 de Septiembre de 2023.
+
+**¿Habrá directo?**
+Sí, el 21 de Septiembre si se presentan soluciones ;)
 
 ## 🛠️ ¿Qué vas a aprender en este reto?
 
