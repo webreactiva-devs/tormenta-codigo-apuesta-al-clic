@@ -1,6 +1,7 @@
 # 🌩️ Tormenta de código: Apuesta al clic, la web que nunca te atreviste a hacer 🎰
 
-![Tormenta de código](https://cdn.midjourney.com/c991a872-f590-47e2-bcc6-81a94bdc03ed/0_3.png)
+![tormenta-codigo](https://github.com/webreactiva-devs/tormenta-codigo-apuesta-al-clic/assets/1122071/599c4ff1-58b2-4990-b1b4-951313f54750)
+
 
 > 🎯 Propósito: Crea una web con algo que no hayas usado nunca 🆕
 
