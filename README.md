@@ -105,3 +105,8 @@ Para hacértelo aún más fácil en la carpeta `plantillas` tienes:
 2. El código para generar el número aleatorio en `randomNumber.js`
 
 
+## 🤗 Mecenazgo
+
+Este reto se realiza por y para la [Comunidad Malandriner](https://webreactiva.com/comunidad)
+
+❤️
