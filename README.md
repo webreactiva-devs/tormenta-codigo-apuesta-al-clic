@@ -52,7 +52,7 @@ Para no tener que inventarse todo, esta es la propuesta de funcionalidad.
 
 ## 🏆 Premio especial
 
-📏 Al que consiga crear el código con menos líneas de JS/TS.
+📏 Al que consiga crear el código con menos ~líneas~ caracteres de JS/TS sin que deje de ser legible por un ser humano.
 
 **¿Qué premio es?**
 
