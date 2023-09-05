@@ -13,25 +13,25 @@ Te cuento los requisitos y los trozos de código y plantilla que ya tienes dispo
 
 **🌟 Tienes que utilizar algo que no hayas usado antes**
 
-Puede ser el stack completo o solo una parte.
+~~Puede ser el stack completo o solo una parte.~~
 
-TODAS las soluciones son válidas.
+Debe ser en la parte funcional/programática del stack (JavaScript). No vale solo usar un "sitio nuevo donde despliego" o "una librería CSS nueva", tiene que haber algo nuevo en la forma de construir la funcionalidad del usuario.
+
+Por sencillas que parezcan, TODAS las soluciones son válidas.
 
 Ejemplos:
 
 - 👶 Si nunca has hecho una web, usa HTML, CSS y JavaScript Vanilla (o, incluso jQuery). NO es necesario usar un framework en este caso
 - 🛠️ Si lo tuyo es el backend o mobile o devops, lee el caso anterior 😉
-- 🅾️ Si estás a piñón con React prueba, por ejemplo, HTML+Alpine.js o HTMLx
+- 🅾️ Si estás a piñón con React prueba, por ejemplo, HTML+Alpine.js o HTMX
 - 📚 Si llevas años con JavaScript, lánzate al TypeScript
 - 🚀 Si quieres probar Vite o Bun, esta es tu oportunidad
-- 🎨 Si solo quieres meterte en JavaScript o CSS, usa tu stack de confianza y métele la plantilla que quieras
-
 ‎
 
 
 ## 🎲 Requisitos funcionales de Apuesta al clic
 
-Para no tener que inventarse todo, esta es la propuesta de funcionalidad.
+Esta es la propuesta de funcionalidad.
 
 1. Cada vez que se carga la página se genera un numero aleatorio que el usuario no ve directamente: está entre 0 y 10
 2. Un botón rojo al que hay que hacer clic un número de veces
